@@ -8,7 +8,7 @@ Future<void> main() async {
   await dotenv.load(fileName: ".env");
   WidgetsFlutterBinding.ensureInitialized();
 
-  // 1. Inisialisasi Supabase (GANTI DENGAN DATA DARI DASHBOARD SUPABASE KAMU)
+  // 1. Inisialisasi Supabase 
   await Supabase.initialize(
     url: dotenv.env['SUPABASE_URL'] ?? '', // Ganti URL Project Setting
     anonKey: dotenv.env['SUPABASE_ANON_KEY'] ?? '', // Ganti Anon Public Key
