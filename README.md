@@ -1,6 +1,6 @@
 # 📝 Notely - Smart Note Taking App
 
-**Notely** is a robust mobile note-taking application built with **Flutter** and powered by **Supabase**. Designed for efficiency, Notely allows users to capture ideas seamlessly with a modern and user-friendly interface.
+**Notely** is a robust mobile note-taking application built with **Flutter** and powered by **Supabase**. Designed for efficiency, Notely allows users to capture ideas seamlessly with a very simple and user-friendly interface.
 
 This project was created by **Firly Fahriza** for the Mobile Programming Final Exam (UAS).
 
